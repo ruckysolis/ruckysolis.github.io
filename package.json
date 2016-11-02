@@ -1,0 +1,22 @@
+{
+  "name": "sitio-personal-de-rucky",
+  "version": "1.0.0",
+  "description": "Esta es mi página personal. Donde muestro:",
+  "main": "rucky.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruckysolis/ruckysolis.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruckysolis/ruckysolis.github.io/issues"
+  },
+  "homepage": "https://github.com/ruckysolis/ruckysolis.github.io#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
