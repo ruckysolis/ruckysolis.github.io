@@ -17,7 +17,5 @@
   },
   "homepage": "https://github.com/ruckysolis/ruckysolis.github.io#readme",
   "devDependencies": {
-    "flightplan": "^0.6.14",
-    "grunt": "^1.0.1"
   }
 }
